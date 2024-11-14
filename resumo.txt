@@ -1,0 +1,3 @@
+RabbitMQ: Ideal para sistemas onde a troca de mensagens assíncronas e a entrega garantida são essenciais, como em arquiteturas de microsserviços.
+BullMQ: Melhor para processamento de tarefas em segundo plano em aplicações baseadas em Node.js, onde você precisa de agendamento e gerenciamento de jobs.
+Kafka: Perfeito para cenários que exigem ingestão e processamento de grandes quantidades de dados em tempo real, como pipelines de dados, streaming de logs ou sistemas de eventos.
